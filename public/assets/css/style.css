@@ -15865,7 +15865,7 @@ body.sal-disabled [data-sal|=flip] {
 }
 @media only screen and (max-width: 479px) {
   .header-two .main-header .content .header-left a.thumbnail img {
-    width: 73%;
+    width: 44%;
   }
 }
 @media only screen and (max-width: 1199px) {
