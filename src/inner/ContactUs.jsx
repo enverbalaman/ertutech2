@@ -74,7 +74,7 @@ function ContactUs() {
                                     <div className="info">
                                         <span>Adresimiz</span>
                                         <Link to={'#'}>
-                                            <h5>Karşıyaka Mah. 492 Cad. No:11 Gölbaşı/Ankara</h5>
+                                            <h5>Çankaya/Ankara</h5>
                                         </Link>
                                     </div>
                                 </div>
