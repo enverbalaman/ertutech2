@@ -70,7 +70,7 @@ function SideMenu({ isSidebarOpen, toggleSidebar }) {
                                 {/* single */}
                                 <div className="single">
                                     <i className="fas fa-map-marker-alt" />
-                                    <Link href="#">Karşıyaka Mah. 492 Cad. No:11 Gölbaşı/Ankara</Link>
+                                    <Link href="#">Çankaya/Ankara</Link>
                                 </div>
                                 {/* single ENd */}
                             </div>
